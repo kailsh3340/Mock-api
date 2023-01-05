@@ -1,118 +1,23 @@
 {
-  "posts": [
-    {
-      "id": "1",
-      "mrp": 30,
-      "brand": "Fresho",
-      "discount": 24,
-      "img_src": "https://www.bigbasket.com/media/uploads/p/s/40130385_3-fresho-tomato-local-organically-grown.jpg",
-      "product_info": "Tomato - Local, Organically Grown (Loose)",
-      "weight": "1 kg",
-      "rating": 4.4,
-      "rating_number": 2826,
-      "price": "23.07",
-      "delievery_day_time": "Standard Delivery: Tomorrow 3:00PM - 7:30PM",
-      "qty": 1,
-      "add_btn": "Add"
-    },
-    {
-      "id": "2",
-      "mrp": 12,
-      "brand": "Fresho",
-      "discount": 24,
-      "img_src": "https://www.bigbasket.com/media/uploads/p/s/50000511_7-fresho-chilli-green-organically-grown.jpg",
-      "product_info": "Chilli - Green, Organically Grown (Loose)",
-      "weight": "100 g",
-      "rating": 4.4,
-      "rating_number": 2826,
-      "price": "9.55",
-      "delievery_day_time": "Standard Delivery: Tomorrow 3:00PM - 7:30PM",
-      "qty": 1,
-      "add_btn": "Add"
-    },
-    {
-      "id": "3",
-      "mrp": 145.2,
-      "brand": "Fresho",
-      "discount": 24,
-      "img_src": "https://www.bigbasket.com/media/uploads/p/s/40029980_3-fresho-ginger-organically-grown.jpg",
-      "product_info": "Ginger - Organically Grown (Loose)",
-      "weight": "1 kg",
-      "rating": 4.4,
-      "rating_number": 2826,
-      "price": "122.50",
-      "delievery_day_time": "Standard Delivery: Tomorrow 3:00PM - 7:30PM",
-      "qty": 1,
-      "add_btn": "Add"
-    },
-    {
-      "id": "4",
-      "mrp": 52.45,
-      "brand": "Fresho",
-      "discount": 24,
-      "img_src": "https://www.bigbasket.com/media/uploads/p/s/40023474_7-fresho-banana-yelakki-organically-grown.jpg",
-      "product_info": "Banana - Yelakki, Organically Grown",
-      "weight": "500 g",
-      "rating": 4.4,
-      "rating_number": 2826,
-      "price": "42.07",
-      "delievery_day_time": "Standard Delivery: Tomorrow 3:00PM - 7:30PM",
-      "qty": 1,
-      "add_btn": "Add"
-    },
-    {
-      "id": "5",
-      "mrp": 33,
-      "brand": "Fresho",
-      "discount": 24,
-      "img_src": "https://www.bigbasket.com/media/uploads/p/s/50000491_6-fresho-cucumber-organically-grown.jpg",
-      "product_info": "Cucumber - Organically Grown (Loose)",
-      "weight": "1 kg",
-      "rating": 4.4,
-      "rating_number": 2826,
-      "price": "22.61",
-      "delievery_day_time": "Standard Delivery: Tomorrow 3:00PM - 7:30PM",
-      "qty": 1,
-      "add_btn": "Add"
-    },
-    {
-      "id": "6",
-      "mrp": 20,
-      "brand": "Fresho",
-      "discount": 24,
-      "img_src": "https://www.bigbasket.com/media/uploads/p/s/40023481_5-fresho-lemon-organically-grown.jpg",
-      "product_info": "Lemon - Organically Grown (Loose)",
-      "weight": "4 pcs",
-      "rating": 4.4,
-      "rating_number": 2826,
-      "price": "10",
-      "delievery_day_time": "",
-      "qty": 1
-    },
-    {
-      "id": "7",
-      "mrp": 48,
-      "brand": "Fresho",
-      "discount": 24,
-      "img_src": "https://www.bigbasket.com/media/uploads/p/s/40022635_5-fresho-beetroot-organically-grown.jpg",
-      "product_info": "Beetroot - Organically Grown (Loose)",
-      "weight": "500 g",
-      "rating": 4.4,
-      "rating_number": 2826,
-      "price": "43.82",
-      "delievery_day_time": "Standard Delivery: Tomorrow 3:00PM - 7:30PM",
-      "qty": 1,
-      "add_btn": "Add"
-    }
-  ],
-  "comments": [
+  "cars": [
     {
       "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "brand": "Tata",
+			"type":"Manual",
+      "year": 2019,
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+      "id": 2,
+      "brand": "Tata",
+			"type":"AMT",
+      "year": 2017,
+      "kms": 8000,
+      "Description": "Tata Nexon with all original documents",
+      "Price": 800000
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "wishlisted_cars": []
 }
